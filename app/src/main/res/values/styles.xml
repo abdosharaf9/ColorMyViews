@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Boxes">
+        <item name="android:background">@color/gray</item>
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="text">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>

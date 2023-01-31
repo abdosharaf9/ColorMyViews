@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Color My Views</string>
+    <string name="box1">Box 1</string>
+    <string name="box2">Box 2</string>
+    <string name="box3">Box 3</string>
+    <string name="box4">Box 4</string>
+    <string name="box5">Box 5</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="how_to_play">How to play:</string>
+    <string name="info">Touch the background or any box to change the colors</string>
+</resources>
